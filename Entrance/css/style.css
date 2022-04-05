@@ -247,6 +247,10 @@
     margin-left: 15px;
 }
 
+.cmd2 .cmdText .ul li{
+    list-style:none;
+}
+
 .cmd2 .cmdText .ul a {
     text-decoration: none;
     color: rgb(88, 89, 92);
