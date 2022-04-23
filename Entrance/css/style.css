@@ -268,7 +268,7 @@
     position: fixed;
     bottom: 0;
     margin-bottom: 30px;
-    /* background-color: blue; */
+    background-color: rgb(240, 240, 240,.4);;
 }
 
 #footer a {
