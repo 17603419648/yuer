@@ -142,9 +142,9 @@ html {
 nav {
     position: fixed;
     left: 20px;
-    bottom: 0;
+    top: 20px;
     z-index: 2333;
-    transform: rotate(-90deg) translateZ(0);
+    transform: rotate(0deg) translateZ(0);
     transform-origin: 0 0;
     transition: all .3s ease-out;
     vertical-align: middle;
@@ -711,8 +711,8 @@ ul.skill li .progress div {
         overflow: auto;
         font-size: 13px;
         left: 0;
-        top: inherit;
-        bottom: 0;
+        /*top: inherit;*/
+        top: 13px;
         transform: rotate(0deg) translateZ(0);
         transform-origin: 0 100%;
         white-space: nowrap;
