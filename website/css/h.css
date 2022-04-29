@@ -717,8 +717,8 @@ ul.skill li .progress div {
         transform-origin: 0 100%;
         white-space: nowrap;
         width: 90%;
-        background: -webkit-linear-gradient(180deg, transparent, rgba(0, 0, 0, .8));
-        background: linear-gradient(180deg, transparent, rgba(0, 0, 0, .8))
+        /*background: -webkit-linear-gradient(180deg, transparent, rgba(0, 0, 0, .8));
+        background: linear-gradient(180deg, transparent, rgba(0, 0, 0, .8))*/
     }
     .ch {
         padding: 40px 0
