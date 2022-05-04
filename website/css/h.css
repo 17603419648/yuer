@@ -164,7 +164,7 @@ nav a {
     color: #fff;
     text-decoration: none;
     margin: 0 10px;
-    opacity: .4;
+    opacity: 1;
     transition: all .3s;
     vertical-align: middle
 }
@@ -176,7 +176,7 @@ nav a.time {
 nav a.active,
 nav a:hover {
     text-decoration: underline;
-    opacity: 1
+    opacity: .4
 }
 
 .ch {
