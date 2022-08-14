@@ -1398,7 +1398,7 @@ body.is-preload #bg:before {
     -webkit-transition-delay: 0.25s;
     -ms-transition-delay: 0.25s;
     transition-delay: 0.25s;
-	padding: 1rem 0rem;
+    padding: 1rem 0rem;
     max-height: 40rem;
     overflow: hidden;
 }
@@ -1524,7 +1524,7 @@ body.is-preload #header .content .inner {
         font-size: 1.75rem;
     }
     #header .content .inner {
-        padding: 2.5rem 1rem;
+        padding: 1rem 0rem;
     }
     #header .content p {
         line-height: 1.875;
@@ -1536,7 +1536,7 @@ body.is-preload #header .content .inner {
         padding: 1.5rem 0;
     }
     #header .content .inner {
-        padding: 2.5rem 0;
+        padding: 1rem 0;
     }
     #header nav ul {
         -moz-flex-direction: column;
