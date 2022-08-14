@@ -120,6 +120,10 @@ q {
     quotes: none;
 }
 
+p {
+    margin: 0 0 1rem 0;
+}
+
 blockquote:before,
 blockquote:after,
 q:before,
